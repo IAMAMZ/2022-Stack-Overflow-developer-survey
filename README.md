@@ -1,4 +1,4 @@
-# 2022 Stack Overflow Survey Analysis
+# 2022 Stack Overflow Developer Survey Analysis
 
 
 This is a short analysis of the 2022 stack overflow survey I've done out of curiosity.
