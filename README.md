@@ -5,4 +5,4 @@ This is a short analysis of the 2022 stack overflow survey I've done out of curi
  Hope you find the Insights useful! 
 
 Stack Overflow. (2022). 2022 Developer Survey Results. Retrieved from 
-https://survey.stackoverflow.co/2022/
+https://insights.stackoverflow.com/survey
